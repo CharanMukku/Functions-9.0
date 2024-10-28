@@ -10,7 +10,7 @@
 # Write a function string_length(s) that returns the length of a given string s.
 # Example: string_length("hello") should return 5.
 
-# Character Counter
+# Character Counters
 # Write a function count_character(s, char) that counts the occurrences of a character char in a string s.
 # Example: count_character("banana", "a") should return 3.
 
